@@ -1,5 +1,4 @@
 
-#opensslPath=$PWD
 OSs=(macos ios ios)
 archs=(x86_64 x86_64 arm64)
     
